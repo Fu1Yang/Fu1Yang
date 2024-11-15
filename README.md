@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis Yang Fu
 
-Développeur web & web mobile, passionné par la création d'applications et de sites web. 🎨💻
+Développeur web & web mobile, passionné par la création d'applications mobile et de sites web. 🎨💻
 
 ## 🚀 À propos de moi
 
