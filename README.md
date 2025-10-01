@@ -8,8 +8,8 @@ Développeur web & web mobile, passionné par la création d'applications mobile
 
 - 🎓 Développeur formé en développement web & web mobile
 - 🌱 Actuellement, je travaille avec JS et PHP.
-- 👀 Je suis à la recherche d'une alternance pour continuer à évoluer dans le métier de développeur
-- 💬 N'hésitez pas à me contacter pour échanger sur nos expériences de développement !
+- 👀 Je suis disponible pour une alternance en concepteur développeur d'application mobile de niveau 6 pour continuer à évoluer dans le métier.. 
+- 💬 N'hésitez pas à me contacter pour échanger !
 
 ## 🛠️ Compétences
 
