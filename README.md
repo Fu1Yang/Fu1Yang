@@ -28,5 +28,5 @@ Développeur web & web mobile, passionné par la création d'applications mobile
 - **LinkedIn :** [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/fu-yang-588646243/)
 - **Email :** [mon.adresse email](mailto:yang.fu@live.fr)
 
-Merci de visiter mon profil, n'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer ! 😊
+
 
