@@ -1,32 +1,79 @@
-## Hi there 👋
+## 👋 Bonjour, je suis **Yang Fu**
 
-# 👋 Bonjour, je suis Yang Fu
+🎯 **Développeur Junior Mainframe / COBOL**
+Orientation **Banque & Assurance** – Candidat **POEI / POEC COBOL Grand Système**
 
-Développeur web & web mobile, passionné par la création d'applications mobile et de sites web. 🎨💻
+---
 
 ## 🚀 À propos de moi
 
-- 🎓 Développeur formé en développement web & web mobile
-- 🌱 Actuellement, je travaille avec JS et PHP.
-- 👀 Je suis disponible pour une alternance en concepteur développeur d'application mobile de niveau 6 pour continuer à évoluer dans le métier.. 
-- 💬 N'hésitez pas à me contacter pour échanger !
+Développeur en reconversion vers le **mainframe COBOL**, issu du développement web.
+Je me forme activement aux environnements **legacy bancaires** afin d’intégrer durablement une **ESN spécialisée Grand Système**.
 
-## 🛠️ Compétences
+* 🎓 Titre Professionnel **Développeur Web & Web Mobile (Bac+2)**
+* 🌱 Autoformation intensive en **COBOL / JCL / DB2 / VSAM** (IBM Z Xplore)
+* 🔍 À la recherche d’une **POEI / POEC COBOL**
+* 📍 **Mobile dans toute la France**
+* 💬 Curieux, rigoureux, motivé par les architectures batch et les logiques métier bancaires
 
-- **Langages :** HTML, CSS, JavaScript, PHP
-- **Frameworks :** Bootstrap, Symfony
-- **Outils :** Docker, Debian WSL, Git, MySQL, Visual Studio Code
-- **Modélisation :** UML (diagrammes de classes, d'activités, MCD)
+---
 
-## 📊 Projets récents
+## 🛠️ Compétences techniques
 
-- **[SiteBreaking](https://github.com/Fu1Yang/SiteBreaking)** : Description du projet (site web pour une association avec gestion CRUD en MVC).
+### 🖥️ Mainframe / Backend
 
+* COBOL (batch, VSAM, traitements métier)
+* JCL (gestion et ordonnancement des jobs)
+* DB2 (SQL, jointures, notions)
+* z/OS, TSO/ISPF (navigation, bases)
+
+### 🌐 Développement Web (socle technique)
+
+* HTML5, CSS3, JavaScript
+* C# / ASP.NET Core
+* React.js
+
+### 🗄️ Bases de données
+
+* DB2 (mainframe)
+* SQL Server, MySQL
+* Modélisation relationnelle, requêtage SQL
+
+### ⚙️ Outils & Méthodes
+
+* Git / GitHub
+* UML (diagrammes de classes, cas d’utilisation)
+* Méthodes Agiles (Scrum)
+* VS Code, Visual Studio
+
+---
+
+## 📊 Projets
+
+### 🏦 Système de gestion de livret d’épargne – **COBOL / VSAM**
+
+📅 Projet personnel • 2025
+
+* Gestion de comptes clients via fichiers VSAM indexés
+* Programmes COBOL : création de compte, dépôt/retrait, calcul d’intérêts
+* Traitements batch mensuels (intérêts, relevés)
+* JCL : ordonnancement des jobs, gestion des DD
+  ➡️ Objectif : compréhension des **logiques bancaires legacy** et des architectures batch
+
+### 🌐 Site web associatif – **ASP.NET Core / React**
+
+🔗 [SiteBreaking](https://github.com/Fu1Yang/SiteBreaking)
+
+* Développement d’un site vitrine pour une association
+* Architecture MVC, CRUD, base de données
+* Travail en méthode Agile
+
+---
 
 ## 🤝 Me contacter
 
-- **LinkedIn :** [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/fu-yang-588646243/)
-- **Email :** [mon.adresse email](mailto:yang.fu@live.fr)
+* 💼 **LinkedIn** : [https://www.linkedin.com/in/fu-yang-profile](https://www.linkedin.com/in/fu-yang-profile)
+* 📧 **Email** : [yang.fu@live.fr](mailto:yang.fu@live.fr)
 
-
+---
 
