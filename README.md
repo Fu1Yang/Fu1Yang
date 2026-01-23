@@ -12,7 +12,7 @@ Je me forme activement aux environnements **legacy bancaires** afin d’intégre
 
 * 🎓 Titre Professionnel **Développeur Web & Web Mobile (Bac+2)**
 * 🌱 Autoformation intensive en **COBOL / JCL / DB2 / VSAM** (IBM Z Xplore)
-* 🔍 À la recherche d’une **POEI / POEC COBOL**
+* 🔍 À la recherche d’une **POEI / POEC COBOL** ou d'une **alternance Concepteur développeur d'application (niveau 6)**.
 * 📍 **Mobile dans toute la France**
 * 💬 Curieux, rigoureux, motivé par les architectures batch et les logiques métier bancaires
 
